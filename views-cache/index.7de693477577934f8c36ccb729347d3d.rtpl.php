@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><h1>Sejam Bem Vindos a Página do E-commerce</h1>
